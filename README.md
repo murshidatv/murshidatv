@@ -4,7 +4,7 @@
 I’m **Murshida**, a software developer with a passion for building web applications using JavaScript, React, and Node.js.
 
 - 🌱 I’m currently learning ...MERN Stack
-- 💬 Ask me about ...jaascript,mongoDB
+- 💬 Ask me about ...javascript,mongoDB
 
 
 ### My Skills:
@@ -26,9 +26,5 @@ I’m **Murshida**, a software developer with a passion for building web applica
  [<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="30"/>](https://www.instagram.com/murshi_tv/)
 
 
-### 🔥 Current Streak:
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=murshidatv&theme=highcontrast&hide_border=true)
 
 
